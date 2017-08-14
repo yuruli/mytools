@@ -1,0 +1,5 @@
+com/fzs/commons/filelisttomysql/Main.class
+com/fzs/commons/filelisttomysql/utils/FileDataUtils.class
+com/fzs/commons/filelisttomysql/bean/FileBean.class
+com/fzs/commons/filelisttomysql/bean/RegionBean.class
+com/fzs/commons/filelisttomysql/ToRegionMain.class

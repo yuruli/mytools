@@ -1,2 +1,5 @@
-/Users/rlyu/Documents/workspace/filelisttomysql/src/main/java/com/fzs/commons/filelisttomysql/bean/FileBean.java
-/Users/rlyu/Documents/workspace/filelisttomysql/src/main/java/com/fzs/commons/filelisttomysql/Main.java
+/Users/rlyu/Documents/workspace/mytools/filelist_to_db/src/main/java/com/fzs/commons/filelisttomysql/bean/FileBean.java
+/Users/rlyu/Documents/workspace/mytools/filelist_to_db/src/main/java/com/fzs/commons/filelisttomysql/utils/FileDataUtils.java
+/Users/rlyu/Documents/workspace/mytools/filelist_to_db/src/main/java/com/fzs/commons/filelisttomysql/bean/RegionBean.java
+/Users/rlyu/Documents/workspace/mytools/filelist_to_db/src/main/java/com/fzs/commons/filelisttomysql/Main.java
+/Users/rlyu/Documents/workspace/mytools/filelist_to_db/src/main/java/com/fzs/commons/filelisttomysql/ToRegionMain.java

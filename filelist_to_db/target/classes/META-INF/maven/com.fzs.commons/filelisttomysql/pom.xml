@@ -33,5 +33,13 @@
 			<version>1.6</version>
 		</dependency>
 
+
+		<!-- jdbc driver -->
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>ojdbc</artifactId>
+			<version>6</version>
+		</dependency>
+
 	</dependencies>
 </project>

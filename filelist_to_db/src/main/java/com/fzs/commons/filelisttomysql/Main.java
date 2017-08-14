@@ -20,7 +20,7 @@ public class Main {
 
 	private static Map<String, String> map = new HashMap<String, String>();
 	
-	private static String fix_path = "/u02/samp/files";
+	private static String fix_path = "/u02/samp/files/XFolder/fileroot";
 	
 	private DruidDataSource dataSource;
 	private QueryRunner run ;
